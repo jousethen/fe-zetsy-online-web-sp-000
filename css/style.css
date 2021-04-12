@@ -33,3 +33,7 @@ h3 {
   border: 5px rgb(152,173,166);
   border-style: solid;
 }
+
+.logo {
+  border: 5px gray;
+}
