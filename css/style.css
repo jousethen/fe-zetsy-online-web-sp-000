@@ -29,4 +29,7 @@ h3 {
   color: rgb(152,173,166);
 }
 
-MainHeader
+HeaderImg {
+  border-color: rgb(152,173,166);
+  border: 2px
+}
